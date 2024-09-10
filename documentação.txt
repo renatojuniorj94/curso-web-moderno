@@ -2,3 +2,5 @@ Respositório do curso:
 https://github.com/cod3rcursos/web-moderno
 
 Aprendar com erro dos outos(Stack Over Flow)
+
+ctrl + alt + n > Executa código
