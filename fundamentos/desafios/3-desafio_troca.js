@@ -20,3 +20,18 @@ b = temp;
 
 console.log(a)
 console.log(b)
+
+function Flamengo(libertadores, brasileiro, cb) {
+    libertadores = 3
+    brasileiro = 8
+    cb = 4
+    soma = libertadores + brasileiro + cb
+    if (soma >= 10) {
+        console.log(`O Flamengo tem ${soma} título!`)
+    }
+    else {
+        console.log(`Vamos em busca de mais titulos!`)
+    }
+}
+
+Flamengo()
