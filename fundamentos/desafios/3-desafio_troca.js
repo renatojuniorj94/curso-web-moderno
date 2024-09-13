@@ -8,6 +8,7 @@ console.log(a)
 console.log(b) */
 
 //Errado!
+//Maneira correta de fazer...
 
 let a = 7;
 let b = 94;
